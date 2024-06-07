@@ -13,7 +13,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: white;
+  background-color: rgba(247, 190, 106, 0.664);
 }
 
 .main {
@@ -27,8 +27,8 @@ body {
 
 .title {
   margin: 0;
-  line-height: 1.15;
-  font-size: 4rem;
+  line-height: 3;
+  font-size: 5rem;
   text-align: center;
 }
 

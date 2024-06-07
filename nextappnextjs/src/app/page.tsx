@@ -14,10 +14,9 @@ export default function Home() {
           Adrian Wieczorek
         </h1>
         <p className="subtitle">
-          119203
+          119202
         </p>
       </main>
     </div>
   );
 }
-
